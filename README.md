@@ -120,8 +120,6 @@ python predict.py
 | `spam_app.py` | Streamlit web interface |
 | `predict.py` | CLI tool for predictions |
 | `utils.py` | Text preprocessing functions |
-| `model.pkl` | Serialized trained model |
-| `vectorizer.pkl` | Serialized TF-IDF vectorizer |
 | `requirements.txt` | Python package dependencies |
 
 ---
