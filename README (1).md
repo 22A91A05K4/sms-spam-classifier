@@ -156,9 +156,6 @@ MIT License - feel free to use this project for learning and development.
 
 ## 👨‍💻 Author
 
-**Koushik Nelakanti**  
-GitHub: [@KoushikNelakanti](https://github.com/KoushikNelakanti)
+**T.D.S.V.V.Vinay**  
 
 ---
-
-⭐ **If you found this project helpful, please give it a star!**
